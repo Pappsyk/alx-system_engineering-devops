@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdirk /tmp/my_first_directory/: directory
-
+mkdirk /tmp/my_first_directory
